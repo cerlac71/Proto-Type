@@ -1,0 +1,5 @@
+com/floodwarning/system/controller/FloodRiskController.class
+com/floodwarning/system/FloodWarningApplication.class
+com/floodwarning/system/service/FloodRiskService.class
+com/floodwarning/system/dto/FloodRiskResponse.class
+com/floodwarning/system/config/WebClientConfig.class
